@@ -79,7 +79,7 @@ This simulation deepened my understanding of LND’s fee function and its practi
 - The impact of configuration adjustments on fee behavior.
 - The potential for advanced fee strategies to enhance Lightning Network efficiency.
 
-This experience has prepared me to contribute to LND development, particularly in optimizing fee management for real-world applications.
+This experience has prepared me to contribute to LND development, particularly in optimizing fee management for LND Sweeper function enhancement.
 
 ---
 
