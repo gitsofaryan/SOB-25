@@ -1,4 +1,4 @@
-# Exploring Fee Functions with Polar
+# Exploring Fee Function with Polar
 ![image](https://github.com/user-attachments/assets/5ea439e5-3408-43f1-aefd-3d66e99f0e0c)
 
 ## Introduction
