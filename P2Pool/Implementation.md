@@ -54,8 +54,8 @@ Follow these steps to set up and run the simulation locally on a Linux-based sys
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/gitsofaryan/p2poolv2-ns3-simulation.git
-   cd p2poolv2-ns3-simulation
+   git clone https://github.com/gitsofaryan/p2poolv2-ns3-sim.git
+   cd p2poolv2-ns3-sim
    ```
 
 2. **Install Dependencies**:
