@@ -105,7 +105,10 @@ Lnprototest validates the node’s responses against expected outcomes, ensuring
 ## Diagram: lnprototest Workflow
 
 Below is a sequence diagram illustrating how lnprototest, the Runner, and the Lightning node interact.
-![image](https://app.eraser.io/workspace/m4H7RiV1BvtoMlkuoo9a/preview?elements=hPXMId1oQNd3fwQXo3fkzQ&type=embed)]
+
+---
+
+![image](https://app.eraser.io/workspace/m4H7RiV1BvtoMlkuoo9a/preview?elements=hPXMId1oQNd3fwQXo3fkzQ&type=embed)
 
 
 ### Diagram Explanation
