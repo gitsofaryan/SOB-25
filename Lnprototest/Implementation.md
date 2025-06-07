@@ -1,4 +1,4 @@
-# LNprototest Message Flow Visualizer Proposal Summary
+# LNprototest Message Flow Visualizer Proposal Summary | [Link to Proposal](https://docs.google.com/document/d/1gAlXtYyD4yXyp-IvBQd4U2hg8Hesmz86g4gTxyxiaws/edit?usp=sharing)
 
 
 ![image](https://github.com/user-attachments/assets/83449d5f-618b-4723-8bc3-c043ba4cd476)
