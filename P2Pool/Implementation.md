@@ -1,5 +1,5 @@
 
-# P2Poolv2 NS3 Simulation | [Repository](https://github.com/gitsofaryan/p2pool-ns3-sim)
+# P2Poolv2 NS3 Simulation | [Repository](https://github.com/gitsofaryan/p2pool-ns3-sim) | [Link to Proposal](https://docs.google.com/document/d/149_IujqH5hbIYanJhCBL2zBIVnDPD1bYVplah-DM1_4/edit?usp=sharing)
 
 This repository contains an NS3-based simulation designed to analyze the P2Poolv2 sharechain, specifically focusing on how it handles "uncles" (a mechanism to reduce wasted work in blockchain systems). The simulation models a peer-to-peer (P2P) network ranging from a handful of nodes up to 10,000, simulating the production of shares (proof-of-work solutions) and factoring in network latency. Its primary purpose is to measure key performance metrics—such as **uncle rates** (shares that are valid but not part of the main chain) and **orphan rates** (shares that are discarded due to delays)—to evaluate how well the sharechain performs under various conditions. By doing so, it aims to provide insights that will help optimize parameter settings for the upcoming launch of P2Poolv2, ensuring the system is robust and scalable.
 
