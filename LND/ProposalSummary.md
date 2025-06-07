@@ -1,4 +1,4 @@
-# Detailed Summary: LND Sweeper Fee Function Enhancement Proposal
+# Detailed Summary: LND Sweeper Fee Function Enhancement Proposal [Link](https://docs.google.com/document/d/1sMNvxOYuTt4RLnAd0lCMBrGLLSdLoVFw8sIbZRYBeQU/edit?usp=sharing)
 
 ## Project Overview
 This proposal addresses fundamental inefficiencies in Lightning Network Daemon's (LND) transaction fee mechanism by implementing an adaptive fee calculation system. The current linear fee function creates suboptimal outcomes—overpaying for non-urgent transactions while underpaying for urgent ones. The proposed solution implements three specialized fee functions that adapt dynamically based on transaction characteristics, potentially reducing fees by approximately 30% while improving confirmation reliability.
